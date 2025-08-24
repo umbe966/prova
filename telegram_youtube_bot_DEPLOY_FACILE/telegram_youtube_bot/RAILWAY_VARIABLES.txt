@@ -1,0 +1,49 @@
+🚀 VARIABILI AMBIENTE PER RAILWAY
+=====================================
+
+Copia e incolla queste variabili nel dashboard Railway:
+
+TELEGRAM_BOT_TOKEN
+8203686038:AAE2TxfGbuG5x3XhrbF5vHl1D5jllqJ4EKg
+
+TELEGRAM_ADMIN_IDS
+7101469364
+
+ALLOW_USER_REGISTRATION
+true
+
+MAX_USERS
+100
+
+SEARCH_INTERVAL_MINUTES
+30
+
+SEARCH_KEYWORDS
+intelligenza artificiale,AI tools,machine learning,coding AI,AI platform,video editing AI,AI development,artificial intelligence 2024,neural networks,deep learning,strumenti AI,piattaforme AI,editing video AI,sviluppo AI
+
+YOUTUBE_LANGUAGES
+it,en
+
+YOUTUBE_REGIONS
+IT,US
+
+MAX_VIDEOS_PER_SEARCH
+10
+
+QUIET_HOURS
+23:00-07:00
+
+DEBUG_MODE
+false
+
+=====================================
+ISTRUZIONI:
+1. Nel dashboard Railway, vai su "Variables"
+2. Per ogni variabile sopra:
+   - Click "New Variable"
+   - Nome: copia il nome (es: TELEGRAM_BOT_TOKEN)
+   - Valore: copia il valore (es: 8203686038:AAE...)
+   - Click "Add"
+3. Railway farà redeploy automaticamente
+=====================================
+
